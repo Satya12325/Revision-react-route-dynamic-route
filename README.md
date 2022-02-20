@@ -1,7 +1,6 @@
 # Revision-react-route-dynamic-route
 Created with CodeSandbox
 Create the following routes
-
 - Home - /
 
 - All Products - /products
@@ -30,3 +29,4 @@ otherwise write
 - Create a 404 page, if the route does not exist
 
 - Use `json-server` to create mock the data
+<img src="https://github.com/Satya12325/Revision-react-route-dynamic-route/blob/main/Screenshot%20(31).png" />
